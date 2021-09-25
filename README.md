@@ -7,7 +7,7 @@ Let's start exploring GitHub together ..
 
 >> notes
 
-It is a tool that manages <code>different version</code> of your codes/files and <code>create a history of changes</code> and <code>tracks the changes</code>.
-Before we get started, lets talk a bit about what git is, and how it differes from some other forms of source control. I'll be comparing it a little bit to subversion, but similar comparsions can be applied to other source control systems also.
+It is a open-source <code>version control</code> tool that manages <code>different version</code> of your codes/files and <code>create a history of changes</code> and <code>tracks the changes</code>.
+
 
 ---
