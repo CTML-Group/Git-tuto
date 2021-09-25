@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://github.com/CTML-Group/Git-tuto/blob/main/images/logo_CTML.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 </a>
 
 # Hi CTML <a target="_blank" rel="noopener noreferrer" href="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/hello.gif"><img src="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/hello.gif" width="40px" style="max-width:100%;"></a>
