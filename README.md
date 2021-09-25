@@ -2,7 +2,7 @@
     <img src="https://github.com/CTML-Group/Git-tuto/blob/main/images/logo_CTML.png" alt="CTML logo" title="CTML" align="right" height="90" />
 </a>
 
-# <a target="_blank" rel="noopener noreferrer" href="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/hello.gif"><img src="https://github.com/anand-me/anand-me.github.io/blob/master/Favicon/hello.gif" width="40px" style="max-width:100%;"></a>
+
 
 <h1 align="center">
   Welcome to GitHub !!
