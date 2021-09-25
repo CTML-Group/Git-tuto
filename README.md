@@ -21,4 +21,7 @@ It is a open-source <code>version control</code> tool that manages <code>differe
 ---
 
 
-## Centralised Version Control System (CVCS) -->
+## Centralised Version Control System (CVCS) --> 
+- All the files, project files version history should be saved in central server
+
+
