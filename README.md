@@ -31,7 +31,7 @@ It is a open-source <code>version control</code> tool that manages <code>differe
 
 ## Distributed Version Control System (DVCS)  
 - You’ll always have access to copy of entire project and its version history locally
-- To make changes you can work both locally or remotely (github.com), if you choose to work locally you will just need to connect to server for a few mins to sync your files to remote server
+- To make changes you can work both locally or remotely (<a href="https://github.com/">), if you choose to work locally you will just need to connect to server for a few mins to sync your files to remote server
 - You can access your files from anywhere across the globe
 - Softwares such as <code>GitHub</code>, <code>Mercurial</code> etc. uses disttributed VCS.
 
