@@ -75,13 +75,13 @@ Git is primarily a <code>command line</code> tool, but it also provides GUI base
 <a href="https://desktop.github.com/">GitHub Desktop</a> in your local PC or laptop
 
 ## Git Configuration
----
+
 ## `git config --global user`
 
 `.name <name>`: Setup your name.
 `.email <email>`: Setup your email.
 Set your name and email that will be attached to your commits
----
+
 
 
 
