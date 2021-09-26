@@ -48,13 +48,13 @@ With GitHub you decide when to commit (i.e. to take snapshot) and of which files
 
 ## Installation instructions
 
-You can install the latest version of MATLAB and we recommend to install with all the libraries (if possible)
+Install git using terminal or command prompt
 
-```Install git using terminal or command prompt
+```
 Linux (Debian)>
 sudo apt-get install git
 
-(Update 4') release> R2021a
+
 ```
 ```
 sudo apt-get install python3-pip python3-venv
