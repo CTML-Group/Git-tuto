@@ -132,22 +132,14 @@ git config --global alias.lg 'log -p'
 </h1>
 ---
 
-# Basic commands
+# GitHub Basic commands
 
 ---
 ## Getting started, and making changes
 ---
 ## `git init`
 
-Start tracking a project in Git.
-
-This command creates the .git directory.
-
->>> notes: move this to above add / commit / etc
-
-- if you are using git locally only
-- if it's not on a remote (yet)
-- simplest way is typically creating a repo on git, bitbucket, etc and then cloning
+Start tracking a project in Git, this command creates the .git directory
 
 ---
 ## `git status`
@@ -165,3 +157,13 @@ These can be _untracked_, _unstaged_ or _staged_ for commit.
 * git status - see untracked files
 
 ---
+## `git add <files>`
+
+Copy snapshots of modified files to the staging area, this command tracks new files
+---
+
+## `git commit`
+
+This command save a snapshot of the staging area to the history as a commit
+
+
