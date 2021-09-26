@@ -37,8 +37,8 @@ It is a open-source <code>version control</code> tool that manages <code>differe
 
 ## Snapshots are everything in GitHub
 - Information is a set of snapshots, every committed change, Git takes another Snapshot
-  - Snapshots are full version of file that has changed not just changes to it
-- If we think about Subversion information is set of files plus deltas of changes over time – does not have full version
+  - Snapshots are <code>full version of file</code> that has changed <code>not just changes to it</code>
+- If we think about Subversion information is set of files plus <code>deltas of changes over time</code> – does not have full version
  <h1 align="center">
 With GitHub you decide when to commit (i.e. to take snapshot) and of which files
 </h1>
