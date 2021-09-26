@@ -242,7 +242,7 @@ This commad shows the exact lines added and removed in the working directory.
 This command helps you to browse and inspect the evolution of the project.
 
 ![multiselect-demo](https://github.com/CTML-Group/Git-tuto/blob/main/images/First_commit_on_git.gif)
-![move-demo](https://github.com/CTML-Group/Git-tuto/blob/main/images/First_commit_on_git.gif)
+
 
 	
 	
