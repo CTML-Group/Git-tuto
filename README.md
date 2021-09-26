@@ -173,3 +173,8 @@ This command save a snapshot of the staging area to the history as a commit
 -- edit file again
 -- need to add it again
 
+## `Undo`
+
+We are humans,  sometimes its normal to make mistakes i.e. to say NOT every commit is perfect 
+
+Git provides some ways to work with your history uaing reset, revert, and checkout
