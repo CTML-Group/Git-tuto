@@ -81,10 +81,11 @@ Git is primarily a <code>command line</code> tool, but it also provides GUI base
 `.name <name>`: Setup your name.
 `.email <email>`: Setup your email.
 Set your name and email that will be attached to your commits
+```
 Examples:
 git config --global user.name "your-git-user-name"
 git config --global user.email "your-git-email"
-
+```
 
 
 
