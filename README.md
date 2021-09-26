@@ -64,7 +64,7 @@ brew install git
 ```
 ```
 Windows>
-[MPI-IS/FLAME](https://git-scm.com/downloads/)
+[USING THIS LINK](https://git-scm.com/downloads/)
 
 ```
 
