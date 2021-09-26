@@ -46,7 +46,15 @@ With GitHub you decide when to commit (i.e. to take snapshot) and of which files
 </h1>
 
 
+## Installation instructions
 
+You can install the latest version of MATLAB and we recommend to install with all the libraries (if possible)
+
+```MATLAB
+MATLAB>
+(Update 4') version> 9.10.0.1710957
+(Update 4') release> R2021a
+```
 
 
 
