@@ -165,4 +165,11 @@ Copy snapshots of modified files to the staging area, this command tracks new fi
 
 This command save a snapshot of the staging area to the history as a commit
 
+>>> notes:
+ An important thing to note - is that every time a file changes, if you want to include that change with the next commit - you need to tell git to re-add it, as it is adding a snapshot of the file at the time the command is run.
+
+-- edit file
+-- git add
+-- edit file again
+-- need to add it again
 
