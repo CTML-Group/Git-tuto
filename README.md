@@ -114,16 +114,18 @@ git config --global alias.lg 'log -p'
 <code>Push</code>: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
 
 ## GitHub Workflow: Git works in <code>three</code> stages
-<code>Working Directory</code>: Place where all the work takes place create, edit, delete, organize and save files
-	
-<code>Staging Area</code>: Revised or modified files are staged, we add snapshots to the files in the staging area
-	
-<code>Git Repository</code>: Now we do commit that stores snapshot to your git repo and will be saved as version history
 
-<code>Pull</code>: Suppose you make some changes on your repo remotely that change will not be synced in your local machine, the process of downloading the remote commit to local machine is called pulling, we use “git pull command” conversely
+<code>.git directory</code> (History) : Place where the metadata and object database of the project is stored, this is what's copied when you clone a repository.
 
-<code>Push</code>: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
-<h1 align="center">
+1) <code>Working Directory</code>: Place where all the work takes place create, edit, delete, organize and save files, this is a version of the project that is checked out and placed on disk this is a file in the .git directory, that stores information about what will go into your next commit
+	
+2) <code>Staging Area</code>: Revised or modified files are staged, we add snapshots to the files in the staging area
+	
+3) <code>Git Repository</code>: Now we do commit that stores snapshot to your git repo and will be saved as version history
+
+
+
+
 	
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
 	
