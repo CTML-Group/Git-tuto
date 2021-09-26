@@ -27,11 +27,13 @@ It is a open-source <code>version control</code> tool that manages <code>differe
 - You will need access to central server
 - You’ll only checkout the files you needed to modify therefore you won’t have complete version of code locally
 - If something happens to central server, you may not be able to connect to your files
-<img src="https://github.com/CTML-Group/Git-tuto/blob/main/images/logo_CTML.png" alt="CTML logo" title="CTML" align="right" height="90" />
+- Softwares such as Subversion uses centralised VCS.
+
 ## Distributed Version Control System (DVCS)  
 - You’ll always have access to copy of entire project and its version history locally
 - To make changes you can work both locally or remotely (github.com), if you choose to work locally you will just need to connect to server for a few mins to sync your files to remote server
 - You can access your files from anywhere across the globe
+- Softwares such as GitHub, Mercurial etc. uses disttributed VCS.
 
 
 
