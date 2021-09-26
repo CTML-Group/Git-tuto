@@ -131,4 +131,5 @@ git config --global alias.lg 'log -p'
 	
 </h1>
 ## GitHub Commands
+
 <code>git init</code> This command creates the .git directory
