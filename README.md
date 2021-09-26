@@ -74,8 +74,14 @@ git  -- version or git version
 Git is primarily a <code>command line</code> tool, but it also provides GUI based feature. If you would like to have <code>GUI feature</code> you can install
 <a href="https://desktop.github.com/">GitHub Desktop</a> in your local PC or laptop
 
+## Git Configuration
+---
+## `git config --global user`
 
-
+`.name <name>`: Setup your name.
+`.email <email>`: Setup your email.
+Set your name and email that will be attached to your commits
+---
 
 
 
