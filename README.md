@@ -177,7 +177,7 @@ This command save a snapshot of the staging area to the history as a commit
 
 We are humans,  sometimes its normal to make mistakes i.e. to say NOT every commit is perfect 
 
-Git provides some ways to work with your history uaing reset, revert, and checkout
+Git provides some ways to work with your history using reset, revert, and checkout
 
 ## 'git revert <commit>'
 
@@ -207,4 +207,38 @@ Git reset can be considered a ' <code>very dangerous</code>' command also, as it
 This command copy files from the staging area to the working directory.
 
 Omit `<files>` to throw away all local changes
+	
+## `git rm`
+
+This command remove files from the working directory and the staging area
+
+`--cached`: Remove files from the staging area only and keep them in the working directory.
+
+---
+
+## `git mv`
+
+This command track the movement (renaming) of files
+
+It essentially moves the file on the filesystem, `git rm`s and then `git add`s the moved file.
+
+---
+	
+## `git clone <url>`
+
+This command copies an existing Git repository to your local machine  and checks out a working copy of the latest version of the default branch
+
+---
+
+## `git diff`
+
+This commad shows the exact lines added and removed in the working directory.
+
+`--cached | --staged`: Compare your staged changes to those of your last commit.
+
+---
+
+## `git log`
+
+This command helps you to browse and inspect the evolution of the project.
 
