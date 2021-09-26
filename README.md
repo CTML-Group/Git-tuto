@@ -35,6 +35,16 @@ It is a open-source <code>version control</code> tool that manages <code>differe
 - You can access your files from anywhere across the globe
 - Softwares such as GitHub, Mercurial etc. uses disttributed VCS.
 
+## Snapshots are everything in GitHub
+- Information is a set of snapshots, every committed change, Git takes another Snapshot
+- - Snapshots are full version of file that has changed not just changes to it
+- If we think about Subversion information is set of files plus deltas of changes over time – does not have full version
+ <h1 align="center">
+With GitHub you decide when to commit (i.e to take snapshot) and of which files
+</h1>
+
+
+
 
 
 
