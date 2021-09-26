@@ -100,6 +100,11 @@ git config --global alias.lg 'log -p'
 ```
 
 ---
+## Basic Terms in Git
+<code>Repository</code>: It is the collection of all the files and history of those files, consist all your commits, often shortened as <code>repo</code>
+		Repo can stay in local machine or remote server<a href="https://github.com/">github</a>, the act of copying remote repo to local machine is called <code>cloning</code>
+
+
 
 
 
