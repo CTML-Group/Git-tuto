@@ -1,11 +1,10 @@
 <a href="https://web1.eng.famu.fsu.edu/~kshoele/CTML/">
     <img src="https://github.com/CTML-Group/Git-tuto/blob/main/images/logo_CTML.png" alt="CTML logo" title="CTML" align="right" height="90" />
-</a>
-
+</a>    
 
 
 <h1 align="center">
-  Welcome to GitHub !
+  Welcome to GitHub ! Test
 </h1>
 
 
