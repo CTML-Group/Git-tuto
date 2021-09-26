@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  Welcome to GitHub !:Heart:
+  Welcome to GitHub !
 </h1>
 
 
