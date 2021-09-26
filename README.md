@@ -27,20 +27,20 @@ It is a open-source <code>version control</code> tool that manages <code>differe
 - You will need access to central server
 - You’ll only checkout the files you needed to modify therefore you won’t have complete version of code locally
 - If something happens to central server, you may not be able to connect to your files
-- Softwares such as Subversion uses centralised VCS.
+- Softwares such as <code>Subversion</code> uses centralised VCS.
 
 ## Distributed Version Control System (DVCS)  
 - You’ll always have access to copy of entire project and its version history locally
 - To make changes you can work both locally or remotely (github.com), if you choose to work locally you will just need to connect to server for a few mins to sync your files to remote server
 - You can access your files from anywhere across the globe
-- Softwares such as GitHub, Mercurial etc. uses disttributed VCS.
+- Softwares such as <code>GitHub</code>, <code>Mercurial</code> etc. uses disttributed VCS.
 
 ## Snapshots are everything in GitHub
 - Information is a set of snapshots, every committed change, Git takes another Snapshot
 - - Snapshots are full version of file that has changed not just changes to it
 - If we think about Subversion information is set of files plus deltas of changes over time – does not have full version
  <h1 align="center">
-With GitHub you decide when to commit (i.e to take snapshot) and of which files
+With GitHub you decide when to commit (i.e. to take snapshot) and of which files
 </h1>
 
 
