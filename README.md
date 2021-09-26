@@ -13,7 +13,7 @@
 Let's start exploring GitHub together ..
 # What is Git?
 
->> notes
+>>  Point to remember
 
 It is a open-source <code>version control</code> tool that manages <code>different version</code> of your codes/files, <code>create a history of changes</code> and <code>tracks the changes</code>. Centralised and Distributed Version Control System (DVCS) are most common version control system existing in community.
 
@@ -165,7 +165,7 @@ Copy snapshots of modified files to the staging area, this command tracks new fi
 
 This command save a snapshot of the staging area to the history as a commit
 
->>> notes:
+>>>  Point to remember:
  An important thing to note - is that every time a file changes, if you want to include that change with the next commit - you need to tell git to re-add it, as it is adding a snapshot of the file at the time the command is run.
 
 -- edit file
@@ -178,3 +178,33 @@ This command save a snapshot of the staging area to the history as a commit
 We are humans,  sometimes its normal to make mistakes i.e. to say NOT every commit is perfect 
 
 Git provides some ways to work with your history uaing reset, revert, and checkout
+
+## 'git revert <commit>'
+
+>> Point to remember:
+
+Git revert is one of the safer ways of to undo a changes, as it does not rewrite the history of your project. Git tries to figure out how to undo a change, and create a new commit for that change
+
+---
+## `git reset -- <files>`
+
+This command copy files from the latest commit to staging area
+
+Effectively undoes `git add <files>` by replacing files in the staging area by those last committed
+
+Omit `<files>` to unstage everything.
+
+>> Point to remember:
+
+<code>git revert</code> does not move the project back to a previous state but <code>git reset</code> does. Git revert also allows you to revert changes at any point in history, where git reset can only work backwards from the current commit
+
+Git reset can be considered a ' <code>very dangerous</code>' command also, as it is possible to lose work as you are unable to recover your original work
+
+---
+
+## `git checkout -- <files>`
+
+This command copy files from the staging area to the working directory.
+
+Omit `<files>` to throw away all local changes
+
