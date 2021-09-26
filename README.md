@@ -130,7 +130,7 @@ git config --global alias.lg 'log -p'
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
 	
 </h1>
----
+
 
 # GitHub Basic commands
 
@@ -158,7 +158,6 @@ These can be _untracked_, _unstaged_ or _staged_ for commit.
 
 ---
 ## `git add <files>`
-
 Copy snapshots of modified files to the staging area, this command tracks new files
 ---
 
