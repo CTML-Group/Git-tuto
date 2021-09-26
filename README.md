@@ -131,9 +131,23 @@ git config --global alias.lg 'log -p'
 	
 </h1>
 ## GitHub Commands
+---
+## Getting started, and making changes
+---
 ## `git init`
-This command creates the .git directory, starts tracking a project in GitHub
 
+Start tracking a project in Git.
+
+This command creates the .git directory.
+
+>>> notes: move this to above add / commit / etc
+
+- if you are using git locally only
+- if it's not on a remote (yet)
+- simplest way is typically creating a repo on git, bitbucket, etc and then cloning
+
+
+---
 ---
 ## `git status`
 
