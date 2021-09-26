@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  Welcome to GitHub !! THIS IS A TEST
+  Welcome to GitHub !
 </h1>
 
 
