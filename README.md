@@ -59,7 +59,7 @@ Linux (Fedora)>
 sudo yum install git
 ```
 ```
-Mac>
+MacOS>
 brew install git
 ```
 ```
