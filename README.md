@@ -56,7 +56,9 @@ sudo apt-get install git
 
 (Update 4') release> R2021a
 ```
-
+```
+sudo apt-get install python3-pip python3-venv
+```
 
 
 
