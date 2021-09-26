@@ -115,7 +115,7 @@ git config --global alias.lg 'log -p'
 
 ## GitHub Workflow
 <h1 align="center">
-[](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)
+[]
 
 
 [![Flux ejectiong from gaps](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
