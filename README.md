@@ -44,7 +44,7 @@ It is a open-source <code>version control</code> tool that manages <code>differe
  <h1 align="center">
 With GitHub you decide when to commit (i.e. to take snapshot) and of which files
 </h1>
-[![Flux ejectiong from gaps](https://github.com/CTML-Group/FIrstOrderBLSolver/blob/main/figures/flux_gap_0.001_mediummask_mtuck_case6.jpg)]()
+
 
 ## Installation instructions
 
