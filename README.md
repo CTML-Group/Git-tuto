@@ -67,7 +67,10 @@ Windows>
 [Using this link](https://git-scm.com/downloads)
 
 ```
-Git is primarily a <code>command line</code> tool, but it also provides GUI based feature. If you would like to have <code>GUI feature</code> you can install [GitHub Desktop][https://desktop.github.com/] in your local PC or laptop
+Git is primarily a <code>command line</code> tool, but it also provides GUI based feature. If you would like to have <code>GUI feature</code> you can install
+<a href="https://desktop.github.com/">GitHub Desktop</a> in your local PC or laptop
+
+
 
 
 
