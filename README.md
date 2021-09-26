@@ -53,11 +53,10 @@ Install git using terminal or command prompt
 ```
 Linux (Debian)>
 sudo apt-get install git
-
-
 ```
 ```
-sudo apt-get install python3-pip python3-venv
+Linux (Fedora)>
+sudo yum install git
 ```
 
 
