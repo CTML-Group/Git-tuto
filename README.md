@@ -130,7 +130,10 @@ git config --global alias.lg 'log -p'
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
 	
 </h1>
-# GitHub Commands
+---
+
+# Basic commands
+
 ---
 ## Getting started, and making changes
 ---
@@ -146,8 +149,6 @@ This command creates the .git directory.
 - if it's not on a remote (yet)
 - simplest way is typically creating a repo on git, bitbucket, etc and then cloning
 
-
----
 ---
 ## `git status`
 
