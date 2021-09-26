@@ -88,9 +88,9 @@ git config --global user.email "your-git-email"
 ```
 I'm sure most of us like alias, if so why not setting some alias as well to make our life even easier :smile:
 Alias is a short form of frequently used commands
-Examples:
 
 ```
+Some Examples, you can set it as you would prefer, (not mandatory)
 git config --global alias.s status
 git config --global alias.c commit
 git config --global alias.br branch
