@@ -109,9 +109,9 @@ git config --global alias.lg 'log -p'
 						- A reference to commit that came before 
 						- A commit id # also called hash code
 
-Pull: Suppose you make some changes on your repo remotely that change will not be synced in your local machine, the process of downloading the remote commit to local machine is called pulling, we use “git pull command” conversely
+<code>Pull</code>: Suppose you make some changes on your repo remotely that change will not be synced in your local machine, the process of downloading the remote commit to local machine is called pulling, we use “git pull command” conversely
 
-Push: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
+<code>Push</code>: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
 
 
 
