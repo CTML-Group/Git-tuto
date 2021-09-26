@@ -58,8 +58,14 @@ sudo apt-get install git
 Linux (Fedora)>
 sudo yum install git
 ```
-
-
+```
+Mac>
+brew install git
+```
+```
+Windows>
+<a href="https://github.com/">github</a>
+```
 
 
 
