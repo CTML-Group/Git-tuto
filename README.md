@@ -86,7 +86,7 @@ Examples:
 git config --global user.name "your-git-user-name"
 git config --global user.email "your-git-email"
 ```
-I'm sure most of us like alias, if so why not setting some alias as well to make our life even easier :bowtie:
+I'm sure most of us like alias, if so why not setting some alias as well to make our life even easier :bowtie: :smile:
 
 
 
