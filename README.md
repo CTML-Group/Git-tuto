@@ -130,7 +130,7 @@ git config --global alias.lg 'log -p'
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
 	
 </h1>
-## GitHub Commands
+# GitHub Commands
 ---
 ## Getting started, and making changes
 ---
