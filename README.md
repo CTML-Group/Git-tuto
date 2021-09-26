@@ -241,3 +241,5 @@ This commad shows the exact lines added and removed in the working directory.
 
 This command helps you to browse and inspect the evolution of the project.
 
+![multiselect-demo](https://github.com/davidtheclark/gifs/blob/master/multiselect-demo.gif)
+![move-demo](https://github.com/davidtheclark/gifs/blob/master/move-demo.gif)
