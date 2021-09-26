@@ -114,6 +114,10 @@ git config --global alias.lg 'log -p'
 <code>Push</code>: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
 
 ## GitHub Workflow
+<code>Working Directory<code>: Place where all the work takes place create edit, delete, organize and save files
+<code>Staging Area</code>Revised or modified files are staged, we add snapshots to the files in the staging area
+<code>Git Repository</code>:Now we do commit that stores snapshot to your git repo and will be saved as version history
+
 <h1 align="center">
 	
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
