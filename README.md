@@ -50,9 +50,10 @@ With GitHub you decide when to commit (i.e. to take snapshot) and of which files
 
 You can install the latest version of MATLAB and we recommend to install with all the libraries (if possible)
 
-```MATLAB
-MATLAB>
-(Update 4') version> 9.10.0.1710957
+```Install git using terminal or command prompt
+Linux (Debian)>
+sudo apt-get install git
+
 (Update 4') release> R2021a
 ```
 
