@@ -64,7 +64,7 @@ brew install git
 ```
 ```
 Windows>
-[Using this link](https://git-scm.com/downloads/)
+[Using this link](https://git-scm.com/downloads)
 
 ```
 
