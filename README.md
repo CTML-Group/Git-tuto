@@ -113,11 +113,11 @@ git config --global alias.lg 'log -p'
 
 <code>Push</code>: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
 
+## GitHub Workflow
 
 
 
-
-
+https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG
 
 
 
