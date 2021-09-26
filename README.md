@@ -102,12 +102,16 @@ git config --global alias.lg 'log -p'
 ---
 ## Basic Terms in Git
 <code>Repository</code>: It is the collection of all the files and history of those files, consist all your commits, often shortened as <code>repo</code>
-		Repo can stay in local machine or remote server<a href="https://github.com/">github</a>, the act of copying remote repo to local machine is called <code>cloning</code>
+		Repo can stay in local machine or remote server <a href="https://github.com/">github</a>, the act of copying remote repo to local machine is called <code>cloning</code>
 
 ## <code>Commit</code>: The act of creating snapshot; a project is made up of lots of commits, contains three piece of information
 						- How the files have changed from previous version
 						- A reference to commit that came before 
 						- A commit id # also called hash code
+
+Pull: Suppose you make some changes on your repo remotely that change will not be synced in your local machine, the process of downloading the remote commit to local machine is called pulling, we use “git pull command” conversely
+
+Push: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
 
 
 
