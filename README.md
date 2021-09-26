@@ -63,7 +63,7 @@ MacOS>
 brew install git
 ```
 ```
-Windows>
+Windows user can use this link>
 [Using this link](https://git-scm.com/downloads)
 
 ```
