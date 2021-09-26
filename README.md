@@ -131,5 +131,22 @@ git config --global alias.lg 'log -p'
 	
 </h1>
 ## GitHub Commands
+## `git init`
+This command creates the .git directory, starts tracking a project in GitHub
 
-<code>git init</code> This command creates the .git directory
+---
+## `git status`
+
+Show the status of modified files in the working directory.
+
+These can be _untracked_, _unstaged_ or _staged_ for commit.
+
+
+* go into new folder
+* do git init
+* do git status
+* no files
+* touch readme.md
+* git status - see untracked files
+
+---
