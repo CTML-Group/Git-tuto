@@ -125,7 +125,7 @@ git config --global alias.lg 'log -p'
 
 
 
-
+<h1>
 	
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
 	
