@@ -120,6 +120,9 @@ git config --global alias.lg 'log -p'
 	
 <code>Git Repository</code>: Now we do commit that stores snapshot to your git repo and will be saved as version history
 
+<code>Pull</code>: Suppose you make some changes on your repo remotely that change will not be synced in your local machine, the process of downloading the remote commit to local machine is called pulling, we use “git pull command” conversely
+
+<code>Push</code>: When you made changes locally that will not be reflected in remote server until you push them, we use “git push” command
 <h1 align="center">
 	
 [![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
