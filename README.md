@@ -126,11 +126,7 @@ git config --global alias.lg 'log -p'
   <img width="600" height="400" src="https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG">
 </p>
 
-<h1>
-	
-[![](https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG)]
-	
-</h1>
+
 
 
 # GitHub Basic commands
