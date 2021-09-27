@@ -254,8 +254,8 @@ Suppose we want to create some new branch with name Test-A Test-B to develop som
 git checkout -b Test-A
 git checkout master (switch back to master branch)
 git branch -d Test-A (deletes the Test-A branch)
-git merge <Test-A>
-git merge <Test-B>	
+git merge <Test-A> (merges the changes made in Test-A feature to master branch)
+git merge <Test-B> (merges the changes made in Test-B feature to master branch)	
 git diff <master> <Test-A> (shows difference between master and Test-A branch)
 git diff <master> <Test-B> (shows difference between master and Test-B branch)
 ```
