@@ -241,5 +241,22 @@ This commad shows the exact lines added and removed in the working directory.
 
 This command helps you to browse and inspect the evolution of the project.
 
-![multiselect-demo](https://github.com/davidtheclark/gifs/blob/master/multiselect-demo.gif)
-![move-demo](https://github.com/davidtheclark/gifs/blob/master/move-demo.gif)
+![multiselect-demo](https://github.com/CTML-Group/Git-tuto/blob/main/images/First_commit_on_git.gif)
+
+# GitHub Branching
+>> Point to remember:
+
+<code>Branching</code> is done to develop ceratin features (modules) isolated from other. When you create a repo master branch is the <code>default</code> branch.  We should use other branches for development and merge them back to the master after completion
+```
+Suppose we want to create a new branch with name Test-A
+git checkout -b Test-A
+git checkout master (switch back to master branch)
+git branch -d Test-A (deletes the Test-A branch)
+git merge <Test-A>
+git diff <master> <Test-A> (shows difference between master and Test-A branch)
+
+```
+## References
+- [Pro Git Book by Scott Chacon](https://git-scm.com/book/en/v2)
+- [Other references](http://rogerdudler.github.io/git-guide/)
+	
