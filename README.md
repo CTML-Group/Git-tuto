@@ -246,4 +246,5 @@ This command helps you to browse and inspect the evolution of the project.
 
 ## References
 - [Pro Git Book by Scott Chacon](https://git-scm.com/book/en/v2)
+- [Other references](http://rogerdudler.github.io/git-guide/)
 	
