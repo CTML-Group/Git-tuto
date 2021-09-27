@@ -247,6 +247,7 @@ This command helps you to browse and inspect the evolution of the project.
 >> Point to remember:
 
 <code>Branching</code> is done to develop ceratin features (modules) isolated from other. When you create a repo master branch is the <code>default</code> branch.  We should use other branches for development and merge them back to the master after completion
+	[![](https://github.com/CTML-Group/Git-tuto/blob/main/images/branching.JPG)]
 ```
 Suppose we want to create a new branch with name Test-A
 git checkout -b Test-A
