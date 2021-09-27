@@ -122,7 +122,9 @@ git config --global alias.lg 'log -p'
 	
 3) <code>Git Repository</code>: Now we do commit that stores snapshot to your git repo and will be saved as version history
 
-
+<p align="center">
+  <img width="600" height="400" src="https://github.com/CTML-Group/Git-tuto/blob/main/images/git_workflow_architecture.JPG">
+</p>
 
 <h1>
 	
