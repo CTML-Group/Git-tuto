@@ -244,18 +244,19 @@ This command helps you to browse and inspect the evolution of the project.
 ![multiselect-demo](https://github.com/CTML-Group/Git-tuto/blob/main/images/First_commit_on_git.gif)
 
 # GitHub Branching
->> Point to remember:
+>> <code>Points to remember</code>:
 
-<code>Branching</code> is done to develop ceratin features (modules) isolated from other. When you create a repo master branch is the <code>default</code> branch.  We should use other branches for development and merge them back to the master after completion
+<code>Branching</code> is done to develop ceratin features isolated from other. When you create a repo master branch is the <code>default</code> branch.  We should use other branches for development and merge them back to the master after completion
 	[![](https://github.com/CTML-Group/Git-tuto/blob/main/images/Git_Branching.JPG)]
 ```
-Suppose we want to create a new branch with name Test-A
+Suppose we want to create some new branch with name Test-A Test-B to develop some different functionality with our existing code
 git checkout -b Test-A
 git checkout master (switch back to master branch)
 git branch -d Test-A (deletes the Test-A branch)
 git merge <Test-A>
+git merge <Test-B>	
 git diff <master> <Test-A> (shows difference between master and Test-A branch)
-
+git diff <master> <Test-B> (shows difference between master and Test-B branch)
 ```
 ## References
 - [Pro Git Book by Scott Chacon](https://git-scm.com/book/en/v2)
