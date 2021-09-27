@@ -251,7 +251,7 @@ This command helps you to browse and inspect the evolution of the project.
 Suppose we want to create a new branch with name Test-A
 git checkout -b Test-A
 git checkout master (switch back to master branch)
-git branch -d Test-A (deletes the Test-A branch <code> Handle this command with care</code>)
+git branch -d Test-A (deletes the Test-A branch)
 git merge <Test-A>
 git config --global alias.df diff
 git config --global alias.lg 'log -p'
