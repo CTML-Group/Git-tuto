@@ -253,8 +253,8 @@ git checkout -b Test-A
 git checkout master (switch back to master branch)
 git branch -d Test-A (deletes the Test-A branch)
 git merge <Test-A>
-git config --global alias.df diff
-git config --global alias.lg 'log -p'
+git diff <master> <Test-A> (shows difference between master and Test-A branch)
+
 ```
 ## References
 - [Pro Git Book by Scott Chacon](https://git-scm.com/book/en/v2)
