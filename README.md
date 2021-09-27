@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  Welcome to GitHub ! This is  just a test commit !!
+  Welcome to GitHub ! 
 </h1>
 
 
