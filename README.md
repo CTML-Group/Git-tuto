@@ -12,7 +12,7 @@
 Let's start exploring GitHub together ..
 # What is Git?
 
->>  Point to remember
+>>  <code>Points to remember:</code>
 
 It is a open-source <code>version control</code> tool that manages <code>different version</code> of your codes/files, <code>create a history of changes</code> and <code>tracks the changes</code>. Centralised and Distributed Version Control System (DVCS) are most common version control system existing in community.
 
@@ -162,7 +162,7 @@ Copy snapshots of modified files to the staging area, this command tracks new fi
 
 This command save a snapshot of the staging area to the history as a commit
 
->>>  Point to remember:
+>>>  <code>Points to remember:</code>
  An important thing to note - is that every time a file changes, if you want to include that change with the next commit - you need to tell git to re-add it, as it is adding a snapshot of the file at the time the command is run.
 
 -- edit file
@@ -191,7 +191,7 @@ Effectively undoes `git add <files>` by replacing files in the staging area by t
 
 Omit `<files>` to unstage everything.
 
->> Point to remember:
+>> Points to remember:
 
 <code>git revert</code> does not move the project back to a previous state but <code>git reset</code> does. Git revert also allows you to revert changes at any point in history, where git reset can only work backwards from the current commit
 
@@ -242,7 +242,7 @@ This command helps you to browse and inspect the evolution of the project.
 ![multiselect-demo](https://github.com/CTML-Group/Git-tuto/blob/main/images/First_commit_on_git.gif)
 
 # GitHub Branching
->> <code>Points to remember</code>:
+>> <code>Points to remember:</code>
 
 <code>Branching</code> is done to develop ceratin features (module) isolated from other. When you create a repo master branch is the <code>default</code> branch.  We should use other branches for development and merge them back to the master after completion
 	<p align="center">
