@@ -246,7 +246,16 @@ This command helps you to browse and inspect the evolution of the project.
 # GitHub Branching
 >> Point to remember:
 
-<code>Branching</code> is done to develop ceratin features (modules) isolated from other. When you create a repo master branch is the <code>default</code> branch. Often developers (us) should use other branches for development and merge them back to the master after completion
+<code>Branching</code> is done to develop ceratin features (modules) isolated from other. When you create a repo master branch is the <code>default</code> branch.  We should use other branches for development and merge them back to the master after completion
+```
+Suppose we want to create a new branch with name Test-A
+git checkout -b Test-A
+git checkout master (switch back to master)
+git branch -d Test-A (deletes the branch) <code> Handle this command with care</code>
+git config --global alias.co checkout
+git config --global alias.df diff
+git config --global alias.lg 'log -p'
+```
 ## References
 - [Pro Git Book by Scott Chacon](https://git-scm.com/book/en/v2)
 - [Other references](http://rogerdudler.github.io/git-guide/)
